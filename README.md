@@ -1,2 +1,2 @@
 # This is  my super professional website!
-### version: v0.1.0
+### version: v0.2.0
